@@ -1,0 +1,2 @@
+# WEcomSitePrediction
+Women's Ecommer website reviews is a dataset in kaggle containing customer reviews of various clothing products. I have performed Sentiment Analysis here using the TextBlob lirary. I have used SVC, Logistic Regression and K-Nearest Neighbour models to train and test customer recommendation of a product is positive or negative. The highest accuracy achieved is 88.97% using SVC.
